@@ -1,0 +1,539 @@
+﻿body{
+	font-family: BinnerD;
+	line-height:1.6;
+	font-size: 20px;
+    background-color: #e6eef5;
+	border-left: none;
+	
+}
+p{
+	text-shadow: 0.01em 0.01em 0.0em
+}
+.logosite img{
+    height: 300px;
+	width:300px;
+	left: 250px; 
+	position:absolute;
+	top: 30px;
+}
+.paginainicial img{
+	height:100px;
+	width:120px;
+	left:20px;
+	position:absolute;
+	top:15px;
+}
+.paginainicial:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 25px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 25px rgba(0 0 0 / 90%));
+
+}
+.kravmaga h1{
+
+	position: absolute;
+	top:350px;
+	right:475px;
+	text-size: 22px;
+}
+.tierlistima img{
+	height:100px;
+	width:120px;
+	left:20px;
+	position:absolute;
+	top:150px;
+}
+.tierlistima:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 25px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 25px rgba(0 0 0 / 90%));
+
+}
+	
+	
+.muaythai img{
+	height: 600px;
+	width:500px;
+	left: 200px; 
+	position:absolute;
+	top: 700px;
+}
+
+.cat{
+	
+	left: 1600px; 
+	position:absolute;
+	top: 250px;
+}
+
+.select cat{
+	height: 200px;
+}
+
+.form{
+	right:500px;
+	width: 600px;
+	top: 500px;
+	position:absolute;
+	
+}
+
+.formulario{
+	widht: 200px;
+	position:absolute;
+    
+	right: 100px;
+}
+.muayt h2{
+	position:absolute;
+	top: 700px;
+	left:265px;
+	
+	
+}
+.loginimg img{
+	width:300px;
+	height:200px;
+	top:80px;
+    position: absolute;	
+	right: 50px;
+	transition: all 0,6s;
+	
+}
+.loginimg:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 15px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 15px rgba(0 0 0 / 90%));
+}
+.tierlist img{
+	width:1600px;
+	height:700px;
+	top:700px;
+	position:absolute;
+	left: 150px;
+}
+
+.muaytexto p{
+	float: right;
+	padding: 10px;
+	width: 1200px;
+	
+	font-size:22px;
+}
+
+.fotomuay img{
+	width:175px;
+	height:90px;
+	position: absolute;
+	top:1100px;
+	right:600px;
+}
+.fotomuay:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%));
+}
+.boxetexto p{
+	float: right;
+	padding: 10px;
+	width: 1200px;
+	
+	font-size:22px;
+}
+.box img{
+	height: 400px;
+	width:500px;
+	left: 180px; 
+	position:absolute;
+	top: 1500px;
+}
+.boxe h2{
+	position:absolute;
+	top: 1420px;
+	left:330px;
+}
+.fotoboxe img{
+	width:175px;
+	height:90px;
+	position: absolute;
+	top:1840px;
+	right:600px;
+
+}
+
+
+.fotoboxe:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%));
+}
+
+.hrmb hr{
+	position: absolute;
+	top:1360px;
+}
+.fototaek img{
+	width:175px;
+	height:90px;
+	position: absolute;
+	top:2450px;
+	right:600px;
+}
+.fototaek:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%));
+}
+.taek img{
+	height: 480px;
+	width:600px;
+	left: 110px; 
+	position:absolute;
+	top: 2110px;
+}
+.taektexto p{
+	float: right;
+	padding:;
+	width: 1200px;
+	font-size:22px;
+	position: absolute;
+	top:2200px;
+	left:590px;
+}
+.taekwondo h2{
+	position:absolute;
+	top: 2080px;
+	left:270px;
+}
+.hrbt hr{
+	position: absolute;
+	top:2000px;
+}
+.bj img{
+	height: 370px;
+	width:440px;
+	left: 180px; 
+	position:absolute;
+	top: 2850px;
+}
+.fotobjj img{
+	width:175px;
+	height:90px;
+	position: absolute;
+	top:3130px;
+	right:603px;
+}
+.fotobjj:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%));
+}
+.bjjtexto p{
+	float: right;
+	padding:;
+	width: 1200px;
+	font-size:22px;
+	position: absolute;
+	top:2885px;
+	left:590px;
+}
+.bjj h2{
+	position:absolute;
+	top: 2760px;
+	left:342px;
+}
+.hrtb hr{
+	position: absolute;
+	top:2670px;
+}
+.fotokarate img{
+	width:175px;
+	height:90px;
+	position: absolute;
+	top:3800px;
+	right:603px;
+}
+.fotokarate:hover img{
+	transform: scale(1.1,1.1);
+	transition: all 0.4s cubic-bezier(0.165,0.84,0.44,1);
+	-webkit-filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%)); 
+        filter: drop-shadow(0px 0px 9px rgba(0 0 0 / 90%));
+}
+.kara img{
+	height: 350px;
+	width:380px;
+	left: 180px; 
+	position:absolute;
+	top: 3550px;
+}
+.karatetexto p{
+	float: right;
+	padding:;
+	width: 1200px;
+	font-size:22px;
+	position: absolute;
+	top:3565px;
+	left:590px;
+}
+.karate h2{
+	position:absolute;
+	top: 3430px;
+	left:275px;
+}
+.hrbk hr{
+	position: absolute;
+	top:3350px;
+}
+.sobreimg img{
+	height: 500px;
+	width:800px;
+	position:absolute;
+
+}
+.sobreboxe1 p{
+	float: right;
+	padding:;
+	width: 800px;
+	font-size:24px;
+	position: absolute;
+	top:510px;
+	left:890px;
+}
+.golpesboxe h2{
+	position:relative;
+	top: 580px;
+    text-align:center;
+}
+.golpesboxe p{
+	float: right;
+	padding:;
+	width: 1700px;
+	font-size:25px;
+	position: absolute;
+	top:1190px;
+	left:80px;
+}
+.videoboxe video{
+	height: 480px;
+	width:854px;
+	position:absolute;
+	top:1900px;
+	left:750px;
+
+}
+.pontosp h3{
+	position:absolute;
+	top: 2600px;
+	left:300px;
+ 
+}
+.pontosn h3{
+	top:2600px;
+	position: absolute;
+	right:300px;
+	
+}
+.hrboxe hr{
+	position: absolute;
+	top:2700px;
+	left:890px;
+}
+.pontosp ul{
+	top:2700px;
+	position: absolute;
+	left:285px;
+    font-size:26px;
+}
+.pontosn ul{
+	top:2700px;
+	position: absolute;
+	right:285px;
+    font-size:26px;
+}
+.graduamuay ul{
+	top:2100px;
+	position: absolute;
+	left:105px;
+    font-size:26px;
+}
+.graduamuay h3{
+	top:2020px;
+	position: absolute;
+	left:100px;
+	font-size:27px;
+}
+.graduataek ul{
+	top:1900px;
+	position: absolute;
+	left:105px;
+    font-size:26px;
+}
+.graduataek h3{
+	top:1840px;
+	position: absolute;
+	left:100px;
+	font-size:27px;
+}
+.pesosboxe h3{
+	top:1840px;
+	position: absolute;
+	left:100px;
+	font-size:27px;
+}
+.pesosboxe ul{
+	top:1900px;
+	position: absolute;
+	left:105px;
+    font-size:26px;
+}
+.pesosboxe h2{
+	top:1820px;
+	position: absolute;
+	left:980px;
+	font-size:27px;
+}
+.videotaek video{
+	height: 600px;
+	width:600px;
+	position:absolute;
+	top:1850px;
+	left:900px;
+
+}
+.videomuay video{
+	height: 480px;
+	width:854px;
+	position:absolute;
+	top:2090px;
+	left:890px;
+
+}
+.graduataek h2{
+	top:1770px;
+	position: absolute;
+	left:949px;
+	font-size:27px;
+}
+.graduamuay h2{
+	top:2010px;
+	position: absolute;
+	left:1050px;
+	font-size:27px;
+}
+.videobjj video{
+	height: 480px;
+	width:854px;
+	position:absolute;
+	top:1920px;
+	left:780px;
+}
+.graduabjj h2{
+	top:1833px;
+	position: absolute;
+	left:1039px;
+	font-size:27px;
+}
+.graduabjj ul{
+	top:1900px;
+	position: absolute;
+	left:105px;
+    font-size:26px;
+}
+.graduabjj h3{
+	top:1840px;
+	position: absolute;
+	left:100px;
+	font-size:27px;
+}
+.videokarate video{
+	height: 480px;
+	width:854px;
+	position:absolute;
+	top:1920px;
+	left:780px;
+}
+
+.graduakarate h2{
+	top:1833px;
+	position: absolute;
+	left:987px;
+	font-size:27px;
+}
+.graduakarate ul{
+	top:1900px;
+	position: absolute;
+	left:105px;
+    font-size:26px;
+}
+.graduakarate h3{
+	top:1840px;
+	position: absolute;
+	left:100px;
+	font-size:27px;
+}
+.hrfot hr{
+	position: absolute;
+	top:4000px;
+	
+}
+.fotexto p{
+	float: right;
+	padding:;
+	width: 1700px;
+	font-size:25px;
+	position: absolute;
+	top:4060px;
+	left:60px;
+}
+.formulariofot img{
+	right:30px;
+	width: 450px;
+	height: 300px;
+	top: 4040px;
+	position:absolute;
+}
+.formcenter form{
+	position: absolute;
+	left: -75px;
+	top: 100px;
+	width:600px;
+	font-size: 29px;
+	font-family: "Gill Sans", sans-serif;
+	
+}
+.formcenter h1{
+	position: absolute;
+	left:880px;
+	top:200px;
+	font-size: 40px;
+	font-family: "Gill Sans", sans-serif;
+	
+}
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+
+	
+
+	
+	
